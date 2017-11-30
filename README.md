@@ -1,4 +1,4 @@
-A client card app built to demonstrate custom middleware construction in React/Redux.
+A client card app built to demonstrate custom middleware construction in React/Redux, and using the JSONPlaceholder fake online REST API.
 
 To get this up and running, follow these steps:
 
